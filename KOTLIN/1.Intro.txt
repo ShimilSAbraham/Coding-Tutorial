@@ -1,6 +1,3 @@
-Compile online at:
-"play.kotlinlang.org" or search "kotlin playground"
-
 Code 1:
 
 fun main()  
@@ -8,7 +5,7 @@ fun main()
   println("Hello World")
 }
 
-//just like any other language there is a main function
+//just like most of the languages there is a main function
 //fun is a keyword used to create function
 
 Code 2:
