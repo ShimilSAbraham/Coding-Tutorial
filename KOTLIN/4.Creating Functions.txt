@@ -1,0 +1,57 @@
+Code 9:
+
+fun main(){
+greeting()
+}
+fun greeting(){
+   println("Hello World")
+}
+
+//prints "Hello World"
+
+Code 10:(With Argument)
+
+fun main(){
+greeting("Kotlin")
+}
+fun greeting(lang: String){
+   println("Hello $lang")
+}
+
+//prints "Hello Kotlin"
+//note that it is compulsory to mention the datatype in the function argument
+
+//by default function's return type is Unit(void as in other languages) but we can still speciafy it as
+''fun greeting(lang: String): Unit{}'
+
+Code 11:(Code 9's concise form)
+
+fun main(){
+greeting("Kotlin")
+}
+fun greeting(lang: String): Unit = println("Hello $lang")
+
+Code 12:(return String)
+
+fun main()
+{
+var str= greeting("Kotlin")
+println(str)
+}
+fun greeting(lang: String): String
+{
+return "Hello $lang"
+}
+
+//prints "Hello Kotlin"
+
+Code 12:(return in single line)
+
+fun main()
+{
+var str= greeting("Kotlin")
+println(str)
+}
+fun greeting(lang: String): String = "Hello "+lang
+
+//prints "Hello Kotlin"

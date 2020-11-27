@@ -1,0 +1,47 @@
+Code 3:
+
+fun main()
+{
+val a: Int = 5
+val b: Int = 10
+if(a>b)
+{
+println(a)
+}
+else
+{
+println(b)
+}
+}
+
+//prints 10
+
+Code 4:(Short form of Code 3)
+
+fun main()
+{
+val a: Int = 5
+val b: Int = 10
+val c: Int = if(a>b) a else b
+println(c)
+}
+
+//prints 10
+
+Code 5:(when statements - alternative of switch)
+
+fun main()
+{
+val a: Int = 5
+when(a){
+	5 -> println("Hello")
+	2 -> println("Bye")
+	else -> println("Wrong Input")
+}
+}
+
+//prints "Hello"
+//if a was 2, it would print "Bye"
+//if a was any value other than 2 and 5, it would print "Wrong Input"
+//instead of writing case 5(as in switch), we directly write the value and an arrow to what it should do
+//and instead of default, we have an "else"

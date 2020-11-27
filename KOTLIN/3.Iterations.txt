@@ -1,0 +1,43 @@
+Code 6:(Easy method of iteration)
+
+fun main()
+{
+repeat(5)
+{ 
+println("Hello")
+}
+}
+
+//prints "Hello" 5 times
+
+Code 7:
+
+fun main()
+{
+   var i=1
+repeat(5)
+{ 
+println(i++)
+}
+}
+
+//prints 1,2,3,4,5
+
+Code 8:(for loops)
+
+fun main()
+{
+val a: Int = 5
+for(x in 0 until 10)
+{
+println("Hello $x")
+}
+}
+
+//prints Hello 0, Hello 1... till Hello 9 (stops printing before x becomes 10)
+//using 
+for(x in 0 until 10 step 2){
+   println("Hello $x")
+//displays Hello 0, Hello 2, Hello 4, Hello 6, Hello 8 
+
+
