@@ -1,0 +1,28 @@
+Compile online at:
+"play.kotlinlang.org" or search "kotlin playground"
+
+Code 1:
+
+fun main()  
+{
+  println("Hello World")
+}
+
+//just like any other language there is a main function
+//fun is a keyword used to create function
+
+Code 2:
+
+fun main()
+{
+  val name = "World"
+  println("Hello "+name)
+}
+
+//prints Hello World
+//can also print the same using 'println("Hello $name")'
+//val is an immutable variable more like constant in other langauges
+//var is used to define mutable variables
+//to make the code readable it is good to write the datatype along with definition
+//' var name = "World" ' can be written as ' var name: String = "World" '
+
