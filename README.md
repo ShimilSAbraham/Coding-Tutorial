@@ -1,1 +1,1 @@
-# It's Coding-Tutorial or Hotkeys
+# It's either Coding-Tutorial or Hotkeys
