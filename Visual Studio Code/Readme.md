@@ -65,9 +65,28 @@ Ctrl+Shift+Enter  #insert above
 Ctrl+Shift+K
 ```
 * Or you can just cut the line ```Ctrl+X``` and just not paste it
-#### 14. Multicommenting
+#### 14. Commenting
 ```
-Ctrl+ /
+Ctrl+/
 ```
 * Use this on the current line to comment that line
-* Select multiple lines 
+* Select multiple lines and perform this hotkey 
+#### 15. Multicomment
+* Select multiple lines
+```
+Shift+Alt+A
+```
+![](https://github.com/ShimilSAbraham/Coding-Tutorial/blob/main/Visual%20Studio%20Code/gifs/Commenting.gif)
+#### 16. Select/De-select Match
+```
+Ctrl+D
+Ctrl+U
+```
+![](https://github.com/ShimilSAbraham/Coding-Tutorial/blob/main/Visual%20Studio%20Code/gifs/SameSelect.gif)
+* Click on the word you want to select, and press ```Ctrl+D``` and without taking your finger from Ctrl press as many D's as you want
+#### 17. Cursor Multi-Select
+```
+Alt+Left Click
+```
+![](https://github.com/ShimilSAbraham/Coding-Tutorial/blob/main/Visual%20Studio%20Code/gifs/CursorSelect.gif)
+* By pressing on Alt, click on the lines to want to change simultaneously
