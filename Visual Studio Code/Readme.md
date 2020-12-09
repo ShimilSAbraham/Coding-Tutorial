@@ -32,6 +32,7 @@ Ctrl+Shift+Z   #redo
 ```
 #### 8. Cut, Copy and Paste
 * In order to cut or copy a line of code, you don't have to select the line anymore
+* Just keep the vertical line anywhere in the line and perform the following
 ```
 Ctrl+X - Cut
 Ctrl+C - Copy
@@ -77,6 +78,8 @@ Ctrl+/
 Shift+Alt+A
 ```
 ![](https://github.com/ShimilSAbraham/Coding-Tutorial/blob/main/Visual%20Studio%20Code/gifs/Commenting.gif)
+* Using Shift+Arrow keys, you can selecting multiple characters or words(without using a mouse)
+* And then perform the following:
 #### 16. Select/De-select Match
 ```
 Ctrl+D
