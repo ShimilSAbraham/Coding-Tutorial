@@ -1,11 +1,10 @@
 ## Java GUI using Swing
-___
 ### Working:
 * Instead of writing the code in the main method, we use a separate thread.
 * This event dispatch thread invokes the constructor of the class.
 * The swing components are defined inside this constructor.
 --- 
-
+*Code part inside main method:*
 ```java
   public static void main(String args[]){
     SwingUtilities.invokeLater(new Runnable(){
@@ -15,3 +14,16 @@ ___
     });
   }
 ```
+---
+### Import statements that we need to know:
+```java
+  import javax.swing.*;           //to import swing components
+  import java.awt.*;              //to import Layout classes, Font class, Color class
+  import java.awt.event.*;        //to import event listeners
+  import javax.swing.border.*;    //to import LineBorder(optional)
+```
+
+### Some of the important swing components:
+* JFrame   - *acts as the container that holds all the swing components*
+* JLabel   - *used as a container to place texts and icons inside the Jframe*
+* JButton  - *button*
