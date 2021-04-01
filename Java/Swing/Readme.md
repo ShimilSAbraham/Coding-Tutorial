@@ -27,3 +27,14 @@
 * JFrame   - *acts as the container that holds all the swing components*
 * JLabel   - *used as a container to place texts and icons inside the Jframe*
 * JButton  - *button*
+* JTextField - *used for user inputs*
+* JPasswordField - *used for password fields*
+* ImageIcon - *used for storing icons*
+* JCheckBox
+* JRadioButton
+* ButtonGroup - *to group radio buttons*
+---
+**Now let's see a simple program to display a dialog box**
+> [Program 1](https://github.com/ShimilSAbraham/Coding-Tutorial/tree/main/Java/Swing/Program%201 "Dialog Box")
+
+
