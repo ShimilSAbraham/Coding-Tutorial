@@ -36,5 +36,6 @@
 ---
 **Now let's see a simple program to display a dialog box**
 > [Program 1](https://github.com/ShimilSAbraham/Coding-Tutorial/tree/main/Java/Swing/Program%201 "Dialog Box")
+> [Program 2](https://github.com/ShimilSAbraham/Coding-Tutorial/tree/main/Java/Swing/Program%202 "Dialog Box With UI")
 
 
