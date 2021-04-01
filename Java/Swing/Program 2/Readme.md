@@ -64,4 +64,5 @@ public class DialogBox_with_UI {
 
 ```
 ---
-![DialogBox Output](https://github.com/ShimilSAbraham/Coding-Tutorial/blob/main/Java/Swing/Program%201/DialogBox.png)
+### Output
+![DialogBox Output](https://github.com/ShimilSAbraham/Coding-Tutorial/blob/main/Java/Swing/Program%202/DialogBox_with_UI.png)
