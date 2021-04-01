@@ -39,3 +39,4 @@ public class DialogBox {
 ```
 ---
 ### Output
+![DialogBox Output](https://github.com/ShimilSAbraham/Coding-Tutorial/blob/main/Java/Swing/Program%201/DialogBox.png)
